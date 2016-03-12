@@ -7,14 +7,14 @@ inLanguage: null
 starred: false
 keywords: []
 description: Supply of BIOCORAL RC56 (yellow) for the UROLOGY HOSPITAL in Kuwait City
-datePublished: '2016-03-12T18:26:41.906Z'
-dateModified: '2016-03-12T18:26:41.324Z'
+datePublished: '2016-03-12T18:36:26.096Z'
+dateModified: '2016-03-12T18:36:16.714Z'
 author:
   - name: ITALIAN LINK L.L.C. - Abu Dhabi - U.A.E.
     url: 'http://facebook.com/161750153890441'
     avatar: {}
 related: []
-title: ''
+title: UROLOGY HOSPITAL Project - Kuwait
 app_links: []
 sourcePath: _posts/2016-03-12-supply-of-biocoral-rc56-yellow-for-the-urology-hospital-in.md
 published: true
