@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-12T16:27:11.319Z'
-dateModified: '2016-03-12T16:26:31.372Z'
+datePublished: '2016-03-12T17:02:17.487Z'
+dateModified: '2016-03-12T17:02:09.588Z'
 title: ' '
 author: []
 sourcePath: _posts/2016-03-12-italian-link-llc.md
@@ -22,4 +22,4 @@ url: italian-link-llc/index.html
 _type: Article
 
 ---
-# ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/28790778-ef10-4a6a-9b7b-d963d657d144.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/28790778-ef10-4a6a-9b7b-d963d657d144.png)
