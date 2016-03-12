@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[ITALIAN LINK LLC]]></title>
-        <description><![CDATA[ITALIAN LINK LLC]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Linking the World to Quality...]]></title>
+        <description><![CDATA[Linking the World to Quality...]]></description>
+        <link>https://thegrid.ai/italian-link-llc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Mar 2016 16:17:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 12 Mar 2016 16:27:26 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/italian-link-llc/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[ITALIAN LINK LLC ]]></title>
-            <description><![CDATA[<h1>ITALIAN LINK LLC </h1>]]></description>
-            <link>undefineditalian-link-llc/index.html</link>
+            <title><![CDATA[ ]]></title>
+            <description><![CDATA[<article><h1></h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7f635963599bae965d2ad1d9b9cd06ccaf2f5c96.png"></article>]]></description>
+            <link>https://thegrid.ai/italian-link-llc/italian-link-llc/index.html</link>
             <guid isPermaLink="false">e8f87afe-3894-4cc9-88b0-d1721c7eef21</guid>
-            <pubDate>Sat, 12 Mar 2016 16:17:05 GMT</pubDate>
+            <pubDate>Sat, 12 Mar 2016 16:27:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
