@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-12T21:07:01.276Z'
-dateModified: '2016-03-12T21:06:55.541Z'
+datePublished: '2016-03-12T21:10:31.224Z'
+dateModified: '2016-03-12T21:10:20.944Z'
 title: Contact us
 author: []
 sourcePath: _posts/2016-03-12-how-to-contact-us.md
@@ -22,5 +22,7 @@ url: how-to-contact-us/index.html
 _type: WebPage
 
 ---
-**Contact us**
+**Contact us: [info@italianlink.com][0]**
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5878c8076302229d24385eaf726676be16b7dbeb.png)
+
+[0]: info@italianlink.com
