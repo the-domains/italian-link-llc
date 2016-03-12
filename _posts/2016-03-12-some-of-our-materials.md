@@ -1,20 +1,19 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'https://www.facebook.com/media/set/?set=a.539656252766494.1073741831.161750153890441&type=3'
+hasPage: true
+inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: Some of our materials
-datePublished: '2016-03-12T18:27:12.068Z'
-dateModified: '2016-03-12T18:27:11.558Z'
+datePublished: '2016-03-12T18:43:06.092Z'
+dateModified: '2016-03-12T18:41:45.975Z'
 author:
   - name: ITALIAN LINK L.L.C. - Abu Dhabi - U.A.E.
     url: 'http://facebook.com/161750153890441'
     avatar: {}
 related: []
-title: ''
+title: Our BIOCORAL Stone
 app_links: []
 sourcePath: _posts/2016-03-12-some-of-our-materials.md
 published: true
@@ -24,6 +23,7 @@ publisher:
   domain: www.facebook.com
   url: 'http://www.facebook.com'
   favicon: 'https://static.xx.fbcdn.net/rsrc.php/yV/r/hzMapiNYYpW.ico'
+url: our-biocoral-stone/index.html
 _type: Photograph
 _context: 'http://schema.org'
 
