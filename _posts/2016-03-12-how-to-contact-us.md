@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-12T22:18:53.803Z'
-dateModified: '2016-03-12T22:18:27.849Z'
+datePublished: '2016-03-12T22:20:56.146Z'
+dateModified: '2016-03-12T22:18:54.838Z'
 title: Contact us
 author: []
 sourcePath: _posts/2016-03-12-how-to-contact-us.md
@@ -25,4 +25,6 @@ _type: WebPage
 **Contact us**
 
 **info@italianlink.com**
+
+**Tel: +971-600-522295 | Fax: +971-600-522295**
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5878c8076302229d24385eaf726676be16b7dbeb.png)
