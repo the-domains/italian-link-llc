@@ -1,20 +1,19 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'https://www.facebook.com/media/set/?set=a.539673112764808.1073741832.161750153890441&type=3'
+hasPage: true
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: Supply of BIOCORAL RC56 (yellow) for the UROLOGY HOSPITAL in Kuwait City
-datePublished: '2016-03-12T18:36:26.096Z'
-dateModified: '2016-03-12T18:36:16.714Z'
+datePublished: '2016-03-12T18:37:57.143Z'
+dateModified: '2016-03-12T18:37:52.651Z'
 author:
   - name: ITALIAN LINK L.L.C. - Abu Dhabi - U.A.E.
     url: 'http://facebook.com/161750153890441'
     avatar: {}
 related: []
-title: UROLOGY HOSPITAL Project - Kuwait
+title: Urology Hospital Project - Kuwait
 app_links: []
 sourcePath: _posts/2016-03-12-supply-of-biocoral-rc56-yellow-for-the-urology-hospital-in.md
 published: true
@@ -24,6 +23,7 @@ publisher:
   domain: www.facebook.com
   url: 'http://www.facebook.com'
   favicon: 'https://static.xx.fbcdn.net/rsrc.php/yV/r/hzMapiNYYpW.ico'
+url: urology-hospital-project-kuwait/index.html
 _type: Photograph
 _context: 'http://schema.org'
 
