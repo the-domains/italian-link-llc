@@ -1,20 +1,19 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'https://www.facebook.com/media/set/?set=a.539699839428802.1073741834.161750153890441&type=3'
+hasPage: true
+inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: 'Supply of Italian Limestone for NURAY ISLAND - Luxury Villas in private island Abu Dhabi, U.A.E.'
-datePublished: '2016-03-12T18:27:04.049Z'
-dateModified: '2016-03-12T18:27:03.221Z'
+datePublished: '2016-03-12T18:45:38.617Z'
+dateModified: '2016-03-12T18:42:18.976Z'
 author:
   - name: ITALIAN LINK L.L.C. - Abu Dhabi - U.A.E.
     url: 'http://facebook.com/161750153890441'
     avatar: {}
 related: []
-title: ''
+title: 'NURAY ISLAND - Luxury Villas in private island Abu Dhabi, U.A.E.'
 app_links: []
 sourcePath: _posts/2016-03-12-supply-of-italian-limestone-for-nuray-island-luxury-villas.md
 published: true
@@ -24,6 +23,7 @@ publisher:
   domain: www.facebook.com
   url: 'http://www.facebook.com'
   favicon: 'https://static.xx.fbcdn.net/rsrc.php/yV/r/hzMapiNYYpW.ico'
+url: nuray-island-luxury-villas-in-private-island-abu-dhabi-u/index.html
 _type: Photograph
 _context: 'http://schema.org'
 
