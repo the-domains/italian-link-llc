@@ -5,15 +5,15 @@ inNav: true
 inLanguage: null
 starred: true
 keywords: []
-description: Some of our materials
-datePublished: '2016-03-12T18:45:33.796Z'
-dateModified: '2016-03-12T18:43:12.157Z'
+description: One of our most successful product
+datePublished: '2016-03-12T18:52:28.436Z'
+dateModified: '2016-03-12T18:52:22.595Z'
 author:
   - name: ITALIAN LINK L.L.C. - Abu Dhabi - U.A.E.
     url: 'http://facebook.com/161750153890441'
     avatar: {}
 related: []
-title: Our BIOCORAL Stone
+title: BIOCORAL Stone
 app_links: []
 sourcePath: _posts/2016-03-12-some-of-our-materials.md
 published: true
