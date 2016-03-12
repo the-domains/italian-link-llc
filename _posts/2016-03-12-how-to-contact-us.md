@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-12T20:38:59.628Z'
-dateModified: '2016-03-12T20:38:46.190Z'
+datePublished: '2016-03-12T20:55:07.956Z'
+dateModified: '2016-03-12T20:54:53.475Z'
 title: Contact us
 author: []
 sourcePath: _posts/2016-03-12-how-to-contact-us.md
@@ -23,4 +23,4 @@ _type: WebPage
 
 ---
 **Contact us**
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ab35803ee8737c69be5d20fb82c69cb4b04e72fd.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a4e5da32-3193-4543-9228-0bc19788b40b.png)
