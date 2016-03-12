@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-12T22:22:36.692Z'
-dateModified: '2016-03-12T22:22:31.603Z'
+description: 'Tel: +971-600-522295 | Fax: +971-600-522294 '
+datePublished: '2016-03-12T22:34:44.231Z'
+dateModified: '2016-03-12T22:34:43.638Z'
 title: Contact us
 author: []
 sourcePath: _posts/2016-03-12-how-to-contact-us.md
@@ -22,9 +22,9 @@ url: how-to-contact-us/index.html
 _type: WebPage
 
 ---
-**Contact us**
+# Contact us
 
-**info@italianlink.com**
+## info@italianlink.com
 
-**Tel: +971-600-522295 | Fax: +971-600-522294**
+## Tel: +971-600-522295 | Fax: +971-600-522294
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5878c8076302229d24385eaf726676be16b7dbeb.png)
