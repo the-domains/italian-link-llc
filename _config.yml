@@ -1,0 +1,28 @@
+name: ITALIAN LINK LLC
+favicon: null
+layout_spectrum: 0.5982333933934569
+typography_spectrum: 0.04470227938145399
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.9792498121969402
+  lightness: 0.8545740658883005
+  saturation: 0.13911523250862956
+  rhythmicContrast: 0.4673911835998297
+purpose: []
