@@ -1,26 +1,26 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-12T18:57:49.901Z'
-dateModified: '2016-03-12T18:57:26.533Z'
+datePublished: '2016-03-12T19:01:51.761Z'
+dateModified: '2016-03-12T19:01:38.650Z'
 title: HOW TO CONTACT US
 author: []
+sourcePath: _posts/2016-03-12-how-to-contact-us.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-12-how-to-contact-us.md
-published: true
 url: how-to-contact-us/index.html
 _type: Article
 
 ---
 # HOW TO CONTACT US
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ec5c6eda-ad67-4815-90c2-8a7e3bac2906.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ab35803ee8737c69be5d20fb82c69cb4b04e72fd.png)
