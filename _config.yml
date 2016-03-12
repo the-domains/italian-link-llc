@@ -1,6 +1,6 @@
 name: ITALIAN LINK LLC
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.62865
 typography_spectrum: 0.75174
 title: ITALIAN LINK LLC - Linking the World to Quality...
 cta:
@@ -22,7 +22,7 @@ color:
     - '#231f20'
     - '#7c8fb7'
     - '#b0b1b2'
-  brandStrength: 1
+  brandStrength: 0
   lightness: 0.3125
   saturation: 1
   rhythmicContrast: 0.5
