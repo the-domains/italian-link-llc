@@ -1,20 +1,19 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'https://www.facebook.com/media/set/?set=a.575044265894359.1073741835.161750153890441&type=3'
+hasPage: true
+inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: 'CLIENT : SUNNY WAQF DIRECTORATE, GOVERNMENT OF BAHRAIN Supply of 22.000 M2 of BIOCORAL RC56 (yellow) Italian Cladding'
-datePublished: '2016-03-12T18:26:20.813Z'
-dateModified: '2016-03-12T18:26:20.305Z'
+datePublished: '2016-03-12T18:45:55.020Z'
+dateModified: '2016-03-12T18:43:55.030Z'
 author:
   - name: ITALIAN LINK L.L.C. - Abu Dhabi - U.A.E.
     url: 'http://facebook.com/161750153890441'
     avatar: {}
 related: []
-title: ''
+title: Residential Project - Bahrain
 app_links: []
 sourcePath: _posts/2016-03-12-client-sunny-waqf-directorate-government-of-bahrain-suppl.md
 published: true
@@ -24,6 +23,7 @@ publisher:
   domain: www.facebook.com
   url: 'http://www.facebook.com'
   favicon: 'https://static.xx.fbcdn.net/rsrc.php/yV/r/hzMapiNYYpW.ico'
+url: residential-project-bahrain/index.html
 _type: Photograph
 _context: 'http://schema.org'
 
