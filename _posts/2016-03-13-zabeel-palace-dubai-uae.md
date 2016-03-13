@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Royal Palace - Main Gate and West Gate
-datePublished: '2016-03-13T14:32:27.616Z'
-dateModified: '2016-03-13T14:30:18.531Z'
+datePublished: '2016-03-13T14:41:15.257Z'
+dateModified: '2016-03-13T14:41:13.541Z'
 title: 'ZABEEL PALACE - Dubai, UAE'
 author: []
 sourcePath: _posts/2016-03-13-zabeel-palace-dubai-uae.md
@@ -22,9 +22,8 @@ url: zabeel-palace-dubai-uae/index.html
 _type: Article
 
 ---
+# ZABEEL PALACE - Dubai, UAE
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c806cd57-ed42-4303-bc79-33bd1352c1d2.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a0908421-d274-49a7-81b3-2a71ac33b5c2.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3bf6326b-42e3-48f3-8506-6d8c9e9b191d.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/887fca72-9083-40c9-ba47-cb99ae5227dc.jpg)
-
-# ZABEEL PALACE - Dubai, UAE
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3bf6326b-42e3-48f3-8506-6d8c9e9b191d.png)
