@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: One of our most successful products
-datePublished: '2016-03-13T18:40:49.272Z'
-dateModified: '2016-03-13T18:40:48.684Z'
+datePublished: '2016-03-13T18:44:35.080Z'
+dateModified: '2016-03-13T18:43:31.011Z'
 author:
   - name: ITALIAN LINK L.L.C. - Abu Dhabi - U.A.E.
     url: 'http://facebook.com/161750153890441'
