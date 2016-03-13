@@ -1,20 +1,5 @@
-name: ITALIAN LINK LLC
-favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.75174
-title: ITALIAN LINK LLC - Linking the World to Quality...
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
   google: UA-75011199-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -24,6 +9,11 @@ color:
     - '#b0b1b2'
   brandStrength: 0
   lightness: 0.5
-  saturation: 1
   rhythmicContrast: 0
+  saturation: 1
+cta: {}
+layout_spectrum: 0
+name: ITALIAN LINK LLC
+opengraph: {}
 purpose: []
+typography_spectrum: 0.569819
