@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: One of our most successful products
-datePublished: '2016-03-13T15:24:14.031Z'
-dateModified: '2016-03-13T15:24:13.142Z'
+datePublished: '2016-03-13T15:50:54.516Z'
+dateModified: '2016-03-13T15:50:33.778Z'
 author:
   - name: ITALIAN LINK L.L.C. - Abu Dhabi - U.A.E.
     url: 'http://facebook.com/161750153890441'
@@ -38,4 +38,3 @@ _context: 'http://schema.org'
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9269251e-36fb-4a55-9ceb-7c4c1df7e042.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4d3889c-3c3b-4f95-8b32-2dd8a3fcd3f0.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ab5ff826-6597-4e80-a331-635335fd402b.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/777b3ddd-43f9-49a8-845f-0748c7172ee3.tiff)
