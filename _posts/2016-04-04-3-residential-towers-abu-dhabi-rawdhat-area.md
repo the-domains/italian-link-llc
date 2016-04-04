@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 3 Residential Towers - Abu Dhabi - Rawdhat Area
-datePublished: '2016-04-04T11:43:14.867Z'
-dateModified: '2016-04-04T11:42:52.217Z'
+datePublished: '2016-04-04T11:43:44.349Z'
+dateModified: '2016-04-04T11:43:19.524Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-04-3-residential-towers-abu-dhabi-rawdhat-area.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-04-3-residential-towers-abu-dhabi-rawdhat-area.md
-published: true
 url: 3-residential-towers-abu-dhabi-rawdhat-area/index.html
 _type: Article
 
