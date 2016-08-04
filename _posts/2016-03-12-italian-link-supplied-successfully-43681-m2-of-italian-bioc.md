@@ -8,8 +8,8 @@ description: >-
   ITALIAN LINK supplied successfully 43.681 m2 of Italian BIOCORAL (yellow) &
   BIANCO ROCCIA (white) cladding for the Ministry of Interior General
   Administration Building in Abu Dhabi U.A.E.
-datePublished: '2016-08-04T11:45:09.927Z'
-dateModified: '2016-08-04T11:45:07.978Z'
+datePublished: '2016-08-04T11:45:23.295Z'
+dateModified: '2016-08-04T11:45:21.175Z'
 author:
   - name: ITALIAN LINK L.L.C. - Abu Dhabi - U.A.E.
     url: 'http://facebook.com/161750153890441'
@@ -26,7 +26,7 @@ publisher:
   domain: www.facebook.com
   url: 'http://www.facebook.com'
   favicon: 'https://static.xx.fbcdn.net/rsrc.php/yV/r/hzMapiNYYpW.ico'
-starred: false
+starred: true
 url: ministry-of-interior-project/index.html
 _type: Photograph
 _context: 'http://schema.org'
