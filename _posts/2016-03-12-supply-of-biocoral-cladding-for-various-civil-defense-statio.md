@@ -3,26 +3,29 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
-description: 'Supply of BIOCORAL cladding for various CIVIL DEFENSE Stations - Abu Dhabi, Al Ain & Western Region U.A.E.'
-datePublished: '2016-04-04T12:36:44.632Z'
-dateModified: '2016-04-04T12:35:59.235Z'
+description: >-
+  Supply of BIOCORAL cladding for various CIVIL DEFENSE Stations - Abu Dhabi, Al
+  Ain & Western Region U.A.E.
+datePublished: '2016-08-04T09:41:54.878Z'
+dateModified: '2016-08-04T09:41:46.146Z'
 author:
   - name: ITALIAN LINK L.L.C. - Abu Dhabi - U.A.E.
     url: 'http://facebook.com/161750153890441'
     avatar: {}
 related: []
-title: Civil Defense Project - UAE
+title: ''
 app_links: []
-sourcePath: _posts/2016-03-12-supply-of-biocoral-cladding-for-various-civil-defense-statio.md
-published: true
+sourcePath: >-
+  _posts/2016-03-12-supply-of-biocoral-cladding-for-various-civil-defense-statio.md
 authors: []
 publisher:
   name: Facebook
   domain: www.facebook.com
   url: 'http://www.facebook.com'
   favicon: 'https://static.xx.fbcdn.net/rsrc.php/yV/r/hzMapiNYYpW.ico'
+via: {}
+starred: true
 url: civil-defense-project-uae/index.html
 _type: Photograph
 _context: 'http://schema.org'
