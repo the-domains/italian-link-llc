@@ -7,8 +7,8 @@ keywords: []
 description: >-
   Supply of BIOCORAL RC56 (yellow) Italian Cladding for the SOCIAL SUPPORT
   Center - Al Ain , Eastern Region, Abu Dhabi, UAE
-datePublished: '2016-08-04T09:45:48.894Z'
-dateModified: '2016-08-04T09:45:42.962Z'
+datePublished: '2016-08-04T14:57:54.251Z'
+dateModified: '2016-08-04T14:57:53.402Z'
 author:
   - name: ITALIAN LINK L.L.C. - Abu Dhabi - U.A.E.
     url: 'http://facebook.com/161750153890441'
@@ -18,13 +18,13 @@ title: ''
 app_links: []
 sourcePath: >-
   _posts/2016-03-12-supply-of-biocoral-rc56-yellow-italian-cladding-for-the-so.md
+via: {}
 authors: []
 publisher:
   name: Facebook
   domain: www.facebook.com
   url: 'http://www.facebook.com'
   favicon: 'https://static.xx.fbcdn.net/rsrc.php/yV/r/hzMapiNYYpW.ico'
-via: {}
 starred: true
 url: social-support-center-project-uae/index.html
 _type: Photograph
