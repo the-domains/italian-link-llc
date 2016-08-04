@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-04T14:55:39.928Z'
-dateModified: '2016-08-04T14:55:35.632Z'
+datePublished: '2016-08-04T14:57:22.796Z'
+dateModified: '2016-08-04T14:57:14.478Z'
 title: Contact us
 author:
   - name: ''
@@ -14,11 +14,7 @@ author:
 sourcePath: _posts/2016-03-12-how-to-contact-us.md
 via: {}
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
 starred: true
 url: how-to-contact-us/index.html
 _type: WebPage
