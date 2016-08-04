@@ -1,7 +1,7 @@
 name: ITALIAN LINK LLC
 favicon: null
 layout_spectrum: 0.38016
-typography_spectrum: 0.13422
+typography_spectrum: 0.25176
 content_rating:
   adult: false
 author:
@@ -36,7 +36,7 @@ color:
     - '#7c8fb7'
     - '#b0b1b2'
   brandStrength: 0
-  lightness: 0.375
+  lightness: 0.25
   saturation: 1
   rhythmicContrast: 0
 purpose: []
