@@ -36,15 +36,6 @@ navigation:
   - name: Visit our Facebook Page
     url: 'https://www.facebook.com/ITALIAN.LINK.LLC'
     type: external
-  - name: About us
-    id: be47c6ee-362d-4b90-87e3-97421cda9938
-    type: content
-  - name: Contact us
-    id: fb500b03-db2f-438a-98d4-90a77a3d95b7
-    type: content
-  - name: Our Stones
-    id: 4bba7860-f9a1-4026-9914-c16038d42323
-    type: content
 favicon: null
 title: ITALIAN LINK LLC  "Linking the World to Quality"
 description: Stone Suppliers
