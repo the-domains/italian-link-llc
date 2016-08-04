@@ -1,6 +1,6 @@
 name: ITALIAN LINK LLC
 favicon: null
-layout_spectrum: 0.25738
+layout_spectrum: 0
 typography_spectrum: 0.37665
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/966945c0-c5c3-4d50-8ed9-5367c6b7f8b0.png
@@ -30,8 +30,8 @@ color:
     - '#231f20'
     - '#7c8fb7'
     - '#b0b1b2'
-  brandStrength: 0.5
+  brandStrength: 0.125
   lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
+  saturation: 1
+  rhythmicContrast: 0
 purpose: []
