@@ -3,26 +3,27 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
 keywords: []
 description: ITALIAN Natural White Limestone for Royal Palace in Kuwait
-datePublished: '2016-03-13T16:16:35.268Z'
-dateModified: '2016-03-13T16:16:34.654Z'
+datePublished: '2016-08-04T09:38:19.545Z'
+dateModified: '2016-08-04T09:38:16.248Z'
 author:
   - name: ITALIAN LINK L.L.C. - Abu Dhabi - U.A.E.
     url: 'http://facebook.com/161750153890441'
     avatar: {}
 related: []
-title: 'ROYAL PALACE - Kuwait '
+title: ''
 app_links: []
-sourcePath: _posts/2016-03-13-italian-natural-white-limestone-for-royal-palace-in-kuwait.md
-published: true
+sourcePath: >-
+  _posts/2016-03-13-italian-natural-white-limestone-for-royal-palace-in-kuwait.md
 authors: []
 publisher:
   name: Facebook
   domain: www.facebook.com
   url: 'http://www.facebook.com'
   favicon: 'https://static.xx.fbcdn.net/rsrc.php/yV/r/hzMapiNYYpW.ico'
+via: {}
+starred: true
 url: royal-palace-kuwait/index.html
 _type: Photograph
 _context: 'http://schema.org'
