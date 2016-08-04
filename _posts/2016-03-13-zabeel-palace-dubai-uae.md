@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-04T11:45:32.894Z'
-dateModified: '2016-08-04T11:45:30.472Z'
+datePublished: '2016-08-04T11:46:05.019Z'
+dateModified: '2016-08-04T11:46:03.402Z'
 title: 'ZABEEL PALACE - Dubai, UAE'
 author:
   - name: ''
@@ -14,8 +14,12 @@ author:
 sourcePath: _posts/2016-03-13-zabeel-palace-dubai-uae.md
 via: {}
 authors: []
-publisher: {}
-starred: false
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: true
 url: zabeel-palace-dubai-uae/index.html
 _type: Article
 
