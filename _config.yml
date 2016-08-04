@@ -1,12 +1,26 @@
 name: ITALIAN LINK LLC
+favicon: null
+layout_spectrum: 0.25738
+typography_spectrum: 0.37665
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/966945c0-c5c3-4d50-8ed9-5367c6b7f8b0.png
-layout_spectrum: 0.4449718603864312
-typography_spectrum: 0.8174214141909033
-cta: {}
+title: ''
+author:
+  name: ''
+  url: ''
+  email: ''
+content_rating:
+  adult: false
+cta:
+  domain: null
+  bucket: null
+  version: null
 analytics:
   google: UA-75011199-1
+  facebook: null
+  twitter: null
 opengraph:
+  image: null
   type: ''
   appId: ''
 color:
@@ -19,12 +33,5 @@ color:
   brandStrength: 0
   lightness: 0.5
   saturation: 1
-  rhythmicContrast: 0
+  rhythmicContrast: 0.25
 purpose: []
-title: ''
-author:
-  name: ''
-  url: ''
-  email: ''
-content_rating:
-  adult: false
