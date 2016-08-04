@@ -1,4 +1,4 @@
-typography_spectrum: 0.37665
+typography_spectrum: 0.81999083282426
 content_rating:
   adult: false
 color:
@@ -16,7 +16,7 @@ opengraph:
   image: null
   type: ''
   appId: ''
-layout_spectrum: 0.30485
+layout_spectrum: 0.6201822522561997
 analytics:
   google: UA-75011199-1
   facebook: null
