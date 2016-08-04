@@ -1,20 +1,24 @@
 ---
-datePublished: '2016-08-04T15:04:32.798Z'
-sourcePath: _posts/2016-03-13-zabeel-palace-dubai-uae.md
 inFeed: true
-authors: []
 hasPage: true
+inNav: true
+inLanguage: null
 keywords: []
+description: 'Main Gate - ZABEEL PALACE - Dubai, UAE'
+datePublished: '2016-08-04T15:04:51.485Z'
+dateModified: '2016-08-04T15:04:39.719Z'
+sourcePath: _posts/2016-03-13-zabeel-palace-dubai-uae.md
 author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-04T15:04:26.353Z'
 title: 'Royal Palace | ZABEEL PALACE - Dubai, UAE'
-publisher: {}
-description: 'Main Gate - ZABEEL PALACE - Dubai, UAE'
-inLanguage: null
-inNav: true
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
 starred: true
 url: royal-palace-or-zabeel-palace-dubai-uae/index.html
 _type: Article
