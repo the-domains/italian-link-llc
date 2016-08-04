@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-04T13:05:22.044Z'
+datePublished: '2016-08-04T13:05:31.609Z'
 sourcePath: _posts/2016-03-12-some-of-our-materials.md
 inFeed: true
 authors: []
@@ -11,7 +11,7 @@ author:
     url: 'http://facebook.com/161750153890441'
     avatar: {}
 via: {}
-dateModified: '2016-08-04T13:05:21.285Z'
+dateModified: '2016-08-04T13:05:31.461Z'
 title: Our Stones
 app_links: []
 publisher: {}
@@ -19,7 +19,7 @@ description: OUR STONES
 inLanguage: null
 inNav: true
 starred: true
-url: our-biocoral-stone/index.html
+url: our-stones/index.html
 _context: 'http://schema.org'
 _type: Photograph
 
