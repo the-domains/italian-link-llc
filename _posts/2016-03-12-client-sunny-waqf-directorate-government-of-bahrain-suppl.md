@@ -7,8 +7,8 @@ keywords: []
 description: >-
   CLIENT : SUNNY WAQF DIRECTORATE, GOVERNMENT OF BAHRAIN Supply of 22.000 M2 of
   BIOCORAL RC56 (yellow) Italian Cladding
-datePublished: '2016-08-04T09:39:42.858Z'
-dateModified: '2016-08-04T09:39:27.340Z'
+datePublished: '2016-08-04T09:48:01.807Z'
+dateModified: '2016-08-04T09:47:55.461Z'
 author:
   - name: ITALIAN LINK L.L.C. - Abu Dhabi - U.A.E.
     url: 'http://facebook.com/161750153890441'
