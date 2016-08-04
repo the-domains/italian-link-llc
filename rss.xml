@@ -4,8 +4,15 @@
         <description><![CDATA[ITALIAN LINK LLC]]></description>
         <link>http://www.italianlink.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Aug 2016 09:50:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2016 09:50:44 GMT</lastBuildDate>
         <atom:link href="http://www.italianlink.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ROYAL PALACE - Kuwait ]]></title>
+            <description><![CDATA[<img alt="ITALIAN Natural White Limestone for Royal Palace in Kuwait" src="https://scontent.xx.fbcdn.net/hphotos-frc3/t31.0-8/s720x720/901020_539691259429660_1255396877_o.jpg">]]></description>
+            <link>http://www.italianlink.com/royal-palace-kuwait/index.html</link>
+            <guid isPermaLink="false">ed90f094-d5aa-46f7-af4d-d97b3aa68a7d</guid>
+            <pubDate>Thu, 04 Aug 2016 09:50:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[ZABEEL PALACE - Dubai, UAE]]></title>
             <description><![CDATA[<article><h1>ZABEEL PALACE - Dubai, UAE</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/573b4d3e2ea44a2387142086dbca19440d5ea372.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.italianlink.com/civil-defense-project-uae/index.html</link>
             <guid isPermaLink="false">6faf885e-86f9-4110-a996-cae3fb191031</guid>
             <pubDate>Thu, 04 Aug 2016 09:46:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[About us]]></title>
-            <description><![CDATA[<p></p>]]></description>
-            <link>http://www.italianlink.com/italian-link-general-trading-llc-was-formed-by-mr-andrea/index.html</link>
-            <guid isPermaLink="false">be47c6ee-362d-4b90-87e3-97421cda9938</guid>
-            <pubDate>Thu, 04 Aug 2016 09:46:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
