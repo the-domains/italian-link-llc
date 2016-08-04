@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: OUR STONES
-datePublished: '2016-08-04T09:05:55.043Z'
-dateModified: '2016-08-04T09:05:43.390Z'
+datePublished: '2016-08-04T09:40:03.112Z'
+dateModified: '2016-08-04T09:39:56.820Z'
 author:
   - name: ITALIAN LINK L.L.C. - Abu Dhabi - U.A.E.
     url: 'http://facebook.com/161750153890441'
@@ -18,7 +18,7 @@ sourcePath: _posts/2016-03-12-some-of-our-materials.md
 via: {}
 authors: []
 publisher: {}
-starred: false
+starred: true
 url: our-biocoral-stone/index.html
 _type: Photograph
 _context: 'http://schema.org'
