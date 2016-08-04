@@ -1,6 +1,33 @@
-typography_spectrum: 0.81999083282426
+name: ITALIAN LINK LLC
+favicon: null
+layout_spectrum: 0.30485
+typography_spectrum: 0.37665
 content_rating:
   adult: false
+author:
+  name: ''
+  url: ''
+  email: ''
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/966945c0-c5c3-4d50-8ed9-5367c6b7f8b0.png
+navigation:
+  - name: Visit our Facebook Page
+    url: 'https://www.facebook.com/ITALIAN.LINK.LLC'
+    type: external
+title: ITALIAN LINK LLC  "Linking the World to Quality"
+description: Stone Suppliers
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: UA-75011199-1
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: ''
+  appId: ''
 color:
   brandColors:
     - '#ffffff'
@@ -12,40 +39,4 @@ color:
   lightness: 0.3125
   saturation: 1
   rhythmicContrast: 0
-opengraph:
-  image: null
-  type: ''
-  appId: ''
-layout_spectrum: 0.6201822522561997
-analytics:
-  google: UA-75011199-1
-  facebook: null
-  twitter: null
-author:
-  name: ''
-  url: ''
-  email: ''
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/966945c0-c5c3-4d50-8ed9-5367c6b7f8b0.png
-name: ITALIAN LINK LLC
-cta:
-  domain: null
-  bucket: null
-  version: null
-navigation:
-  - name: Visit our Facebook Page
-    url: 'https://www.facebook.com/ITALIAN.LINK.LLC'
-    type: external
-  - name: Our Stones
-    id: 4bba7860-f9a1-4026-9914-c16038d42323
-    type: content
-  - name: About us
-    id: be47c6ee-362d-4b90-87e3-97421cda9938
-    type: content
-  - name: Contact us
-    id: fb500b03-db2f-438a-98d4-90a77a3d95b7
-    type: content
-favicon: null
-title: ITALIAN LINK LLC  "Linking the World to Quality"
-description: Stone Suppliers
 purpose: []
