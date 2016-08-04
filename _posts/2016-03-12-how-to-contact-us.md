@@ -3,21 +3,23 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
-description: 'Tel: +971-600-522295 | Fax: +971-600-522294 '
-datePublished: '2016-03-13T21:00:52.528Z'
-dateModified: '2016-03-13T21:00:28.309Z'
+description: ''
+datePublished: '2016-08-04T09:42:57.460Z'
+dateModified: '2016-08-04T09:42:49.111Z'
 title: Contact us
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-03-12-how-to-contact-us.md
-published: true
 authors: []
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
+via: {}
+starred: true
 url: how-to-contact-us/index.html
 _type: WebPage
 
