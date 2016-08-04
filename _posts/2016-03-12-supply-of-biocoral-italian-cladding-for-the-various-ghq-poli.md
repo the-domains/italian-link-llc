@@ -3,26 +3,29 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
-description: 'Supply of BIOCORAL Italian Cladding for the various GHQ Police Stations - Abu Dhabi, Al Ain & Western Region U.A.E.'
-datePublished: '2016-03-12T18:40:17.975Z'
-dateModified: '2016-03-12T18:40:15.287Z'
+description: >-
+  Supply of BIOCORAL Italian Cladding for the various GHQ Police Stations - Abu
+  Dhabi, Al Ain & Western Region U.A.E.
+datePublished: '2016-08-04T09:41:36.530Z'
+dateModified: '2016-08-04T09:41:30.338Z'
 author:
   - name: ITALIAN LINK L.L.C. - Abu Dhabi - U.A.E.
     url: 'http://facebook.com/161750153890441'
     avatar: {}
 related: []
-title: Police Station GHQ Project - UAE
+title: ''
 app_links: []
-sourcePath: _posts/2016-03-12-supply-of-biocoral-italian-cladding-for-the-various-ghq-poli.md
-published: true
+sourcePath: >-
+  _posts/2016-03-12-supply-of-biocoral-italian-cladding-for-the-various-ghq-poli.md
 authors: []
 publisher:
   name: Facebook
   domain: www.facebook.com
   url: 'http://www.facebook.com'
   favicon: 'https://static.xx.fbcdn.net/rsrc.php/yV/r/hzMapiNYYpW.ico'
+via: {}
+starred: true
 url: police-station-ghq-project-uae/index.html
 _type: Photograph
 _context: 'http://schema.org'
