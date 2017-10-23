@@ -1,42 +1,63 @@
-name: ITALIAN LINK LLC
-favicon: null
-layout_spectrum: 0.249
-typography_spectrum: 0.13287
+layout_spectrum: 0.5259956756632517
+typography_spectrum: 0.495258098525908
+color:
+  brandColors:
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
+  brandStrength: 0.17500444246059524
+  lightness: 0.09596106200395982
+  saturation: 0.5393169213148148
+  rhythmicContrast: 0.36775761376273364
+coverPrefs:
+  filter: false
 content_rating:
   adult: false
-author:
-  name: ''
-  url: ''
-  email: ''
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/966945c0-c5c3-4d50-8ed9-5367c6b7f8b0.png
-navigation:
-  - name: Visit our Facebook Page
-    url: 'https://www.facebook.com/ITALIAN.LINK.LLC'
-    type: external
-title: ITALIAN LINK LLC  "Linking the World to Quality"
-description: Stone Suppliers
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-75011199-1
-  facebook: null
-  twitter: null
 opengraph:
   image: null
   type: ''
   appId: ''
-color:
-  brandColors:
-    - '#ffffff'
-    - '#024d8d'
-    - '#231f20'
-    - '#7c8fb7'
-    - '#b0b1b2'
-  brandStrength: 0.0625
-  lightness: 0.375
-  saturation: 1
-  rhythmicContrast: 0
-purpose: []
+analytics:
+  google: UA-75011199-1
+  facebook: null
+  twitter: null
+author:
+  name: ITALIAN LINKG GENERAL TRADING LLC
+  url: 'http://www.italianlink.com/'
+  email: info@italianlink.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/fe5b5698-36d4-4241-ae71-623283c45378.png
+name: ITALIAN LINK L.L.C.
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: About us
+    id: be47c6ee-362d-4b90-87e3-97421cda9938
+    type: content
+  - name: Our Stones
+    id: 4bba7860-f9a1-4026-9914-c16038d42323
+    type: content
+  - name: Visit our Facebook Page
+    url: 'https://www.facebook.com/ITALIAN.LINK.LLC'
+    type: external
+  - name: Contact us
+    id: fb500b03-db2f-438a-98d4-90a77a3d95b7
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/7d22a17d-b241-4344-a532-d81c794d6747.png
+title: We are your Italian stone suppliers
+content: []
+description: '"Linking the World to Quality..."'
+purpose:
+  - type: contact
+    url: 'mailto:info@italianlink.com'
+    label: Contact us
+  - type: external
+    url: 'https://www.facebook.com/ITALIAN.LINK.LLC'
+    label: Visit our Facebook Page
+url: 'http://italianlink.com/'
+github: true
